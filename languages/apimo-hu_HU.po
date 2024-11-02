@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -2672,7 +2673,8 @@ msgstr "Általános szerződési feltételek"
 msgid ""
 "Your contact is already in database, please select it on the list below."
 msgstr ""
-"A kapcsolat már szerepel az adatbázisban, kérem válassza ki a lenti listából!"
+"A kapcsolat már szerepel az adatbázisban, kérem válassza ki a lenti "
+"listából!"
 
 msgid "Contract"
 msgstr "Szerződés"
@@ -4749,9 +4751,9 @@ msgstr "Aukció"
 
 msgid "Location"
 msgstr "Bérlés"
+
 msgid "Location saisonnière"
 msgstr "Szezonális bérlet"
-
 
 msgid "From"
 msgstr "Tól"
@@ -4773,3 +4775,6 @@ msgstr "Kerület kiválasztása"
 
 msgid "Select city"
 msgstr "Város kiválasztása"
+
+msgid "Place"
+msgstr "Hely"

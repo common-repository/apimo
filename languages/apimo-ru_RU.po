@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -4794,8 +4795,8 @@ msgid ""
 "The migration of your prospect into a request will allow you to make "
 "matching and proposals with a better tracking."
 msgstr ""
-"Перенос вашего поиска в запрос позволит вам делать сравнения и предложения с "
-"лучшим отслеживанием"
+"Перенос вашего поиска в запрос позволит вам делать сравнения и предложения с"
+" лучшим отслеживанием"
 
 msgid "Floors"
 msgstr "Этажи"
@@ -5247,9 +5248,9 @@ msgstr "Аукцион"
 
 msgid "Location"
 msgstr "Аренда"
+
 msgid "Location saisonnière"
 msgstr "Сезонная аренда"
-
 
 msgid "From"
 msgstr "От"
@@ -5271,3 +5272,6 @@ msgstr "Выберите район"
 
 msgid "Select city"
 msgstr "Выберите город"
+
+msgid "Place"
+msgstr "Место"

@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -2335,7 +2336,8 @@ msgstr "ຍອມຮັບວິທີການຊຳລະເງິນ"
 msgid "Terms and Conditions"
 msgstr "ໄລຍະເວລາແລະເງື່ອນໄຂ"
 
-msgid "Your contact is already in database, please select it on the list below."
+msgid ""
+"Your contact is already in database, please select it on the list below."
 msgstr "ຂໍ້ມູນຕິດຕໍ່ຂອງທ່ານແມ່ນຖືກບັນທຶກແລ້ວ, ກະລຸນາເລືອກໃນລາຍການດ້ານລຸ່ມນີ້"
 
 msgid "Contracts"
@@ -2716,7 +2718,8 @@ msgstr "ສົ່ງໄປຫາການຕິດຕໍ່"
 msgid "Responder"
 msgstr "ຜູ້ຕອບກັບ"
 
-msgid "You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
 msgstr "ທ່ານສາມາດຊອກຫາຂໍ້ມູນທີ່ຖາມເລື້ອຍໆ (FAQs) ໄດ້ໂດຍໃຊ້ຄຳສະເພາະ:"
 
 msgid "Registrar"
@@ -3320,9 +3323,11 @@ msgid "Personal"
 msgstr "ສ່ວນບຸກຄົນ"
 
 msgid ""
-"Please note that there are dependencies, please select a contact for completing the "
-"data transfer."
-msgstr "ຫວັງວ່າທ່ານຈະເພິ່ງພໍໃຈ ແລະ ຂໍຂອບໃຈທີ່ທ່ານເລືອກເອົາລາຍຊື່ໃນການສໍາເລັດການໂອນຂໍ້ມູນ"
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"ຫວັງວ່າທ່ານຈະເພິ່ງພໍໃຈ ແລະ "
+"ຂໍຂອບໃຈທີ່ທ່ານເລືອກເອົາລາຍຊື່ໃນການສໍາເລັດການໂອນຂໍ້ມູນ"
 
 msgid "The installation can take several minutes, please come back later."
 msgstr "ການຕິດຕັ້ງອາດໃຊ້ເວລາຫຼາຍນາທີ, ກະລຸນາກັບມາໃນພາຍຫຼັງ."
@@ -4026,7 +4031,8 @@ msgstr "ສະກຸນເງິນອື່ນ"
 msgid "Enter the first 6 digits"
 msgstr "ເພີ່ມ 6 ຕົວເລກ"
 
-msgid "Without action on your part, your contact will be deleted before the %s."
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
 msgstr "ບໍ່ມີການເຄື່ອນໄຫວໃນສ່ວນຂອງທ່ານ, ຂໍ້ມູນຂອງທ່ານຈະຖືກລຶບກ່ອນທີ່ %s"
 
 msgid "No procedure in progress"
@@ -4048,8 +4054,8 @@ msgid "External action"
 msgstr "ການຈັດການດ້ານນອກ"
 
 msgid ""
-"The migration of your prospect into a request will allow you to make matching and "
-"proposals with a better tracking."
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
 msgstr "ການເຄື່ອນໄຫວເປັນປະຈຳຈະຊ່ວຍໃຫ້ທ່ານໄດ້ຮັບຂໍ້ມູນຫຼາຍຂຶ້ນ"
 
 msgid "Job"
@@ -4185,9 +4191,9 @@ msgstr "ປະມູນ"
 
 msgid "Location"
 msgstr "ເຊົ່າ"
+
 msgid "Location saisonnière"
 msgstr "ເຊົ່າຕາມລະດູການ"
-
 
 msgid "From"
 msgstr ""
@@ -4209,3 +4215,6 @@ msgstr ""
 
 msgid "Select city"
 msgstr ""
+
+msgid "Place"
+msgstr "ສະຖານທີ່"

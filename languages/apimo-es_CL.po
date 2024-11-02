@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -2585,8 +2586,8 @@ msgstr "Términos y Condiciones"
 msgid ""
 "Your contact is already in database, please select it on the list below."
 msgstr ""
-"Su contacto ya está en nuestra base de datos, gracias por seleccionar uno de "
-"la lista."
+"Su contacto ya está en nuestra base de datos, gracias por seleccionar uno de"
+" la lista."
 
 msgid "Contract"
 msgstr "Contrato"
@@ -4340,9 +4341,9 @@ msgstr "Subasta"
 
 msgid "Location"
 msgstr "Arriendo"
+
 msgid "Location saisonnière"
 msgstr "Alquiler de temporada"
-
 
 msgid "From"
 msgstr "De"
@@ -4364,3 +4365,6 @@ msgstr "Seleccionar distrito"
 
 msgid "Select city"
 msgstr "Seleccionar ciudad"
+
+msgid "Place"
+msgstr "Lugar"

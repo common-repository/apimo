@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -2226,7 +2227,8 @@ msgstr ""
 "Energia - szacowane niskie wydatki roczne przy standardowym użytkowaniu"
 
 msgid "Energy - High estimated annual expenditure for standard use"
-msgstr "Energia - Wysokie szacunkowe roczne wydatki na standardowe użytkowanie"
+msgstr ""
+"Energia - Wysokie szacunkowe roczne wydatki na standardowe użytkowanie"
 
 msgid "Energy - Energy Price Reference Year"
 msgstr "Energia - rok referencyjny dla cen energii"
@@ -4659,7 +4661,8 @@ msgstr "Funkcja"
 
 msgid "Please fill in a name and a phone or an e-mail."
 msgstr ""
-"Prosimy o wpisanie imienia i nazwiska oraz numeru telefonu lub adresu e-mail."
+"Prosimy o wpisanie imienia i nazwiska oraz numeru telefonu lub adresu "
+"e-mail."
 
 msgid "Passwords do not match, please retype"
 msgstr "Różne hasła, proszę wpisać ponownie"
@@ -5530,7 +5533,8 @@ msgid "Unsubscribe"
 msgstr "Zrezygnuj z subskrypcji"
 
 msgid "The property will not be published because it is in group « %s »"
-msgstr "Produkt nie może być dystrybuowany, ponieważ znajduje się w grupie %s."
+msgstr ""
+"Produkt nie może być dystrybuowany, ponieważ znajduje się w grupie %s."
 
 msgid "%s months"
 msgstr "%s miesiące"
@@ -5884,7 +5888,8 @@ msgstr "jamais"
 msgid "Facades"
 msgstr "Fasady"
 
-msgid "Please select the page where you would like to publish your properties."
+msgid ""
+"Please select the page where you would like to publish your properties."
 msgstr "Wybierz stronę, na której chcesz opublikować swoje reklamy."
 
 msgid "Unique publication identifier"
@@ -6362,8 +6367,8 @@ msgid ""
 "Please do not remove « {LINK} » value. We need this for the link to the "
 "property website."
 msgstr ""
-"Proszę nie usuwać wartości {LINK}. Potrzebujemy jej do umieszczenia linku do "
-"strony internetowej nieruchomości."
+"Proszę nie usuwać wartości {LINK}. Potrzebujemy jej do umieszczenia linku do"
+" strony internetowej nieruchomości."
 
 msgid "Minimum bid"
 msgstr "Minimalna oferta"
@@ -6519,8 +6524,8 @@ msgid ""
 "In order to verify your e-mail address, please specify this validation code "
 "valid for 15 minutes:"
 msgstr ""
-"Aby zweryfikować swój adres e-mail, wprowadź ten kod walidacyjny ważny przez "
-"15 minut:"
+"Aby zweryfikować swój adres e-mail, wprowadź ten kod walidacyjny ważny przez"
+" 15 minut:"
 
 msgid "Account validation for %s"
 msgstr "Walidacja konta dla %s"
@@ -6535,8 +6540,8 @@ msgstr ""
 msgid ""
 "Other accounts use your e-mail %s, you should use your own e-mail address."
 msgstr ""
-"Niektóre konta używają Twojego adresu e-mail %s, więc użyj unikalnego adresu "
-"e-mail."
+"Niektóre konta używają Twojego adresu e-mail %s, więc użyj unikalnego adresu"
+" e-mail."
 
 msgid ""
 "Your e-mail address %s is already used by another account, please choose a "
@@ -6823,9 +6828,9 @@ msgstr "Aukcja"
 
 msgid "Location"
 msgstr "Wynajem"
+
 msgid "Location saisonnière"
 msgstr "Wynajem sezonowy"
-
 
 msgid "From"
 msgstr "Od"
@@ -6847,3 +6852,6 @@ msgstr "Wybierz dzielnicę"
 
 msgid "Select city"
 msgstr "Wybierz miasto"
+
+msgid "Place"
+msgstr "Miejsce"

@@ -6,7 +6,7 @@
 
  * Description: Manage Real Estat Bussiness
 
- * Version: 2.6
+ * Version: 2.6.1
 
  * Author: ApiWork
 

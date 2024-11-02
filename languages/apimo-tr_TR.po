@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -4639,8 +4640,8 @@ msgid ""
 "The migration of your prospect into a request will allow you to make "
 "matching and proposals with a better tracking."
 msgstr ""
-"Potansiyelinizi talebe dönüştürmek, musteri listenizi kolay takip edebilmek, "
-"cabuk sunumlar verebilm"
+"Potansiyelinizi talebe dönüştürmek, musteri listenizi kolay takip edebilmek,"
+" cabuk sunumlar verebilm"
 
 msgid "floors"
 msgstr "katlar"
@@ -4881,9 +4882,9 @@ msgstr "Açık artırma"
 
 msgid "Location"
 msgstr "Kiralama"
+
 msgid "Location saisonnière"
 msgstr "Sezonluk kiralama"
-
 
 msgid "From"
 msgstr "-den"
@@ -4905,3 +4906,6 @@ msgstr "İlçe seçin"
 
 msgid "Select city"
 msgstr "Şehir seçin"
+
+msgid "Place"
+msgstr "Yer"

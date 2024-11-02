@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -3377,9 +3378,9 @@ msgstr "מכירה פומבית"
 
 msgid "Location"
 msgstr "השכרה"
+
 msgid "Location saisonnière"
 msgstr "השכרת עונתית"
-
 
 msgid "From"
 msgstr "מ"
@@ -3401,3 +3402,6 @@ msgstr "בחר מחוז"
 
 msgid "Select city"
 msgstr "בחר עיר"
+
+msgid "Place"
+msgstr "מָקוֹם"

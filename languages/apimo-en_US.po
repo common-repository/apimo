@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -5822,7 +5823,8 @@ msgstr "never"
 msgid "Facades"
 msgstr "Facades"
 
-msgid "Please select the page where you would like to publish your properties."
+msgid ""
+"Please select the page where you would like to publish your properties."
 msgstr ""
 "Please select the page where you would like to publish your properties."
 
@@ -6759,9 +6761,9 @@ msgstr "Auction"
 
 msgid "Location"
 msgstr "Rent"
+
 msgid "Location saisonnière"
 msgstr "Seasonal rental"
-
 
 msgid "From"
 msgstr "From"
@@ -6783,3 +6785,6 @@ msgstr "Select district"
 
 msgid "Select city"
 msgstr "Select city"
+
+msgid "Place"
+msgstr "Place"

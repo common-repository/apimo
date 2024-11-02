@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -4379,7 +4380,8 @@ msgstr ""
 
 msgid "The installation can take several minutes, please come back later."
 msgstr ""
-"A stallazioni pudaria durà parichji minuti, à ringrazià vi di vultà più tardi"
+"A stallazioni pudaria durà parichji minuti, à ringrazià vi di vultà più "
+"tardi"
 
 msgid "Your contact speaks %s, would you like to change the language?"
 msgstr "U vosciu cuntattu parla %s, vuleti cambià di lingua ?"
@@ -4461,7 +4463,8 @@ msgstr "Ultimi agenzi"
 
 msgid "I confirm my subscription to %s and I accept the general conditions"
 msgstr ""
-"Docu a cunferma di a me suttuscrizzioni à %s è accetttu i cundizioni generali"
+"Docu a cunferma di a me suttuscrizzioni à %s è accetttu i cundizioni "
+"generali"
 
 msgid "from %from_date% to %to_date%"
 msgstr "Da u %from_date% à u %to_date%"
@@ -5568,7 +5571,8 @@ msgstr "mai"
 msgid "Facades"
 msgstr "Facciata"
 
-msgid "Please select the page where you would like to publish your properties."
+msgid ""
+"Please select the page where you would like to publish your properties."
 msgstr "Sciuvareti a paghjina induva vuleti publicà i vosci annunci"
 
 msgid "Unique publication identifier"
@@ -5930,9 +5934,9 @@ msgstr "Asta"
 
 msgid "Location"
 msgstr "Affitto"
+
 msgid "Location saisonnière"
 msgstr "Locazione stagionale"
-
 
 msgid "From"
 msgstr "Da"
@@ -5954,3 +5958,6 @@ msgstr "Selezionà distrittu"
 
 msgid "Select city"
 msgstr "Selezionà cità"
+
+msgid "Place"
+msgstr "Locu"

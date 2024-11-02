@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -3150,8 +3151,8 @@ msgstr "Responder"
 msgid ""
 "You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
 msgstr ""
-"V databázi často kladených dotazů (FAQ) můžete hledat podle klíčového slova/"
-"klíčových slov"
+"V databázi často kladených dotazů (FAQ) můžete hledat podle klíčového "
+"slova/klíčových slov"
 
 msgid "Registrar"
 msgstr "Notář"
@@ -5038,9 +5039,9 @@ msgstr "Dražba"
 
 msgid "Location"
 msgstr "Pronájem"
+
 msgid "Location saisonnière"
 msgstr "Sezónní pronájem"
-
 
 msgid "From"
 msgstr "Od"
@@ -5062,3 +5063,6 @@ msgstr "Vyberte okres"
 
 msgid "Select city"
 msgstr "Vyberte město"
+
+msgid "Place"
+msgstr "Místo"

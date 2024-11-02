@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -5945,7 +5946,8 @@ msgstr "never"
 msgid "Facades"
 msgstr "Facades"
 
-msgid "Please select the page where you would like to publish your properties."
+msgid ""
+"Please select the page where you would like to publish your properties."
 msgstr ""
 "Please select the page where you would like to publish your properties."
 
@@ -7303,11 +7305,11 @@ msgid "Languages"
 msgstr "Languages"
 
 msgid ""
-"Ricoh Theta's serial number is under the device, either right or left of the "
-"attachment point."
+"Ricoh Theta's serial number is under the device, either right or left of the"
+" attachment point."
 msgstr ""
-"Ricoh Theta's serial number is under the device, either right or left of the "
-"attachment point."
+"Ricoh Theta's serial number is under the device, either right or left of the"
+" attachment point."
 
 msgid "%s downloading failed!"
 msgstr "%s downloading failed!"
@@ -7521,9 +7523,11 @@ msgid "Delete the account(s) you want"
 msgstr "Delete the account(s) you want"
 
 msgid ""
-"Delete some from the account managing panel to be able to create new accounts"
+"Delete some from the account managing panel to be able to create new "
+"accounts"
 msgstr ""
-"Delete some from the account managing panel to be able to create new accounts"
+"Delete some from the account managing panel to be able to create new "
+"accounts"
 
 msgid "Touchscreen"
 msgstr "Touchscreen"
@@ -7892,11 +7896,11 @@ msgid "You are now ready to use Apimo"
 msgstr "You are now ready to use Apimo"
 
 msgid ""
-"If you encounter any difficulties, please don't hesitate to contact us. Your "
-"feedback is essential to improve the application."
+"If you encounter any difficulties, please don't hesitate to contact us. Your"
+" feedback is essential to improve the application."
 msgstr ""
-"If you encounter any difficulties, please don't hesitate to contact us. Your "
-"feedback is essential to improve the application."
+"If you encounter any difficulties, please don't hesitate to contact us. Your"
+" feedback is essential to improve the application."
 
 msgid "Retake"
 msgstr "Retake"
@@ -8012,7 +8016,6 @@ msgstr "Rent"
 msgid "Location saisonnière"
 msgstr "Seasonal rental"
 
-
 msgid "From"
 msgstr "From"
 
@@ -8033,3 +8036,6 @@ msgstr "Select district"
 
 msgid "Select city"
 msgstr "Select city"
+
+msgid "Place"
+msgstr "Place"

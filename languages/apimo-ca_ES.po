@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -5334,7 +5335,8 @@ msgstr "Introduïu els 6 primers dígits"
 msgid ""
 "Without action on your part, your contact will be deleted before the %s."
 msgstr ""
-"Sense cap acció per part vostra, el vostre contacte s'eliminarà abans del %s."
+"Sense cap acció per part vostra, el vostre contacte s'eliminarà abans del "
+"%s."
 
 msgid "No procedure in progress"
 msgstr "No hi ha cap tràmit en curs"
@@ -5662,7 +5664,8 @@ msgstr "mai"
 msgid "Facades"
 msgstr "Façanes"
 
-msgid "Please select the page where you would like to publish your properties."
+msgid ""
+"Please select the page where you would like to publish your properties."
 msgstr "Seleccioneu la pàgina on voleu publicar les vostres propietats."
 
 msgid "Unique publication identifier"
@@ -6152,8 +6155,8 @@ msgid ""
 "Please do not remove « {LINK} » value. We need this for the link to the "
 "property website."
 msgstr ""
-"Si us plau, no elimineu el valor «{LINK}». Necessitem això per a l'enllaç al "
-"lloc web de la propietat."
+"Si us plau, no elimineu el valor «{LINK}». Necessitem això per a l'enllaç al"
+" lloc web de la propietat."
 
 msgid "Minimum bid"
 msgstr "Oferta mínima"
@@ -6457,9 +6460,9 @@ msgstr "Subhasta"
 
 msgid "Location"
 msgstr "Lloguer"
+
 msgid "Location saisonnière"
 msgstr "Lloguer de temporada"
-
 
 msgid "From"
 msgstr "De"
@@ -6481,3 +6484,6 @@ msgstr "Seleccionar distrito"
 
 msgid "Select city"
 msgstr "Seleccionar ciudad"
+
+msgid "Place"
+msgstr "Lloc"

@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -5122,7 +5123,8 @@ msgstr "مطلقا"
 msgid "Facades"
 msgstr "واجهات"
 
-msgid "Please select the page where you would like to publish your properties."
+msgid ""
+"Please select the page where you would like to publish your properties."
 msgstr "يرجى تحديد الصفحات التي تريد نشر عقاراتك فيها."
 
 msgid "Unique publication identifier"
@@ -5569,8 +5571,8 @@ msgid ""
 "to keep this login details confidential and don't to change your password "
 "regularly."
 msgstr ""
-"استفد الآن من الوصول إلى البرنامج باستخدام بيانات الاعتماد هذه للاتصال. تأكد "
-"من الحفاظ على سرية هذه المعلومات وتغيير كلمة المرور الخاصة بك بانتظام."
+"استفد الآن من الوصول إلى البرنامج باستخدام بيانات الاعتماد هذه للاتصال. تأكد"
+" من الحفاظ على سرية هذه المعلومات وتغيير كلمة المرور الخاصة بك بانتظام."
 
 msgid "Watch our channel"
 msgstr "شاهد قناتنا"
@@ -5723,9 +5725,9 @@ msgstr "مزايدة"
 
 msgid "Location"
 msgstr "إيجار"
+
 msgid "Location saisonnière"
 msgstr "إيجار موسمي"
-
 
 msgid "From"
 msgstr "من"
@@ -5747,3 +5749,6 @@ msgstr "اختر المنطقة"
 
 msgid "Select city"
 msgstr "اختر المدينة"
+
+msgid "Place"
+msgstr "مكان"

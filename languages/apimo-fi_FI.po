@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -3613,7 +3614,8 @@ msgid "Would you like to publish on the homepage?"
 msgstr "Souhaitez-vous publier sur la page d'accueil ?"
 
 msgid "<b>Warning :</b> there is an error, please check each fields."
-msgstr "<b>Attention :</b> il existe une erreur, merci de vérifier les champs."
+msgstr ""
+"<b>Attention :</b> il existe une erreur, merci de vérifier les champs."
 
 msgid "Price/sq m"
 msgstr "Prix/m²"
@@ -4348,9 +4350,9 @@ msgstr "Huutokauppa"
 
 msgid "Location"
 msgstr "Vuokraus"
+
 msgid "Location saisonnière"
 msgstr "Kausivuokraus"
-
 
 msgid "From"
 msgstr "Alkaen"
@@ -4372,3 +4374,6 @@ msgstr "Valitse alue"
 
 msgid "Select city"
 msgstr "Valitse kaupunki"
+
+msgid "Place"
+msgstr "Paikka"

@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -5119,9 +5120,9 @@ msgstr "Auktion"
 
 msgid "Location"
 msgstr "Leje"
+
 msgid "Location saisonnière"
 msgstr "Sæsonudlejning"
-
 
 msgid "From"
 msgstr "Fra"
@@ -5143,3 +5144,6 @@ msgstr "Vælg distrikt"
 
 msgid "Select city"
 msgstr "Vælg by"
+
+msgid "Place"
+msgstr "Placere"

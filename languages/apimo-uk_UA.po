@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -97,9 +98,9 @@ msgstr "Аукціон"
 
 msgid "Location"
 msgstr "Оренда"
+
 msgid "Location saisonnière"
 msgstr "Сезонна оренда"
-
 
 msgid "From"
 msgstr "Від"
@@ -121,3 +122,6 @@ msgstr "Виберіть район"
 
 msgid "Select city"
 msgstr "Виберіть місто"
+
+msgid "Place"
+msgstr "Місце"

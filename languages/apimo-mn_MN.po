@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -4788,9 +4789,9 @@ msgstr "Дуудлага худалдаа"
 
 msgid "Location"
 msgstr "Түрээс"
+
 msgid "Location saisonnière"
 msgstr "Улирлын түрээс"
-
 
 msgid "From"
 msgstr ""
@@ -4812,3 +4813,6 @@ msgstr ""
 
 msgid "Select city"
 msgstr ""
+
+msgid "Place"
+msgstr "Газар"

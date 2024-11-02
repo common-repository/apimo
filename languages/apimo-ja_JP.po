@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -148,9 +149,9 @@ msgstr "オークション"
 
 msgid "Location"
 msgstr "賃貸"
+
 msgid "Location saisonnière"
 msgstr "シーズンレンタル"
-
 
 msgid "From"
 msgstr "から"
@@ -172,3 +173,6 @@ msgstr "地区を選択"
 
 msgid "Select city"
 msgstr "都市を選択"
+
+msgid "Place"
+msgstr "場所"

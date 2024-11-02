@@ -1131,7 +1131,7 @@ function apimo_list_callback($attrs)
 
                                 <span class="text">
 
-                                    <?php echo _e('Location', 'apimo'); ?>
+                                    <?php echo _e('Place', 'apimo'); ?>
 
                                 </span>
 

@@ -2,7 +2,7 @@
 Contributors:
 Tags: real estate, property management, listings, clients, leads, showings, open houses, reports
 Tested up to: 6.4.2
-Stable tag: 2.6
+Stable tag: 2.6.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 

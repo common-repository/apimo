@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -4677,8 +4678,8 @@ msgid ""
 "The migration of your prospect into a request will allow you to make "
 "matching and proposals with a better tracking."
 msgstr ""
-"تغییر یک مشتری احتمالی به یک درخواست ، به شما اجازه خواهد داد که تطبیق بهتری "
-"انجام دهید."
+"تغییر یک مشتری احتمالی به یک درخواست ، به شما اجازه خواهد داد که تطبیق بهتری"
+" انجام دهید."
 
 msgid "Floors"
 msgstr "طبقات"
@@ -5001,9 +5002,9 @@ msgstr "مزایده"
 
 msgid "Location"
 msgstr "اجاره"
+
 msgid "Location saisonnière"
 msgstr "اجاره فصلی"
-
 
 msgid "From"
 msgstr "از"
@@ -5025,3 +5026,6 @@ msgstr "انتخاب ناحیه"
 
 msgid "Select city"
 msgstr "انتخاب شهر"
+
+msgid "Place"
+msgstr "مکان"

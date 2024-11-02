@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -3144,9 +3145,9 @@ msgstr "拍卖"
 
 msgid "Location"
 msgstr "租赁"
+
 msgid "Location saisonnière"
 msgstr "季节性租赁"
-
 
 msgid "From"
 msgstr "从"
@@ -3168,3 +3169,6 @@ msgstr "选择区"
 
 msgid "Select city"
 msgstr "选择城市"
+
+msgid "Place"
+msgstr "地方"

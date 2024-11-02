@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -2493,7 +2494,8 @@ msgstr "វិធីសាស្រ្តទទួលយកការទូទា
 msgid "Condition"
 msgstr "លក្ខខណ្ឌ"
 
-msgid "Your contact is already in database, please select it on the list below."
+msgid ""
+"Your contact is already in database, please select it on the list below."
 msgstr "មាននៅក្នុងតារាងទិន្ន៍យរូចរាល់ហើយ"
 
 msgid "Contracts"
@@ -3494,11 +3496,11 @@ msgid "Personal"
 msgstr "ផ្ទាល់ខ្លួន"
 
 msgid ""
-"Please note that there are dependencies, please select a contact for completing "
-"the data transfer."
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
 msgstr ""
-"Please note that there are dependencies, please select a contact for completing "
-"the data transfer."
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
 
 msgid "The installation can take several minutes, please come back later."
 msgstr "…"
@@ -3564,7 +3566,8 @@ msgid "Broadcast to"
 msgstr "ផ្សាយទៅ"
 
 msgid "The property will not be published because it is in step « %s »"
-msgstr "ទ្រព្យសម្បត្តិនឹងមិនត្រូវបានបោះពុម្ពផ្សាយទេព្រោះវាស្ថិតនៅក្នុងជំហាន« %s »"
+msgstr ""
+"ទ្រព្យសម្បត្តិនឹងមិនត្រូវបានបោះពុម្ពផ្សាយទេព្រោះវាស្ថិតនៅក្នុងជំហាន« %s »"
 
 msgid "Last agencies"
 msgstr "ទីភ្នាក់ងារចុងក្រោយ"
@@ -4104,9 +4107,9 @@ msgstr "លក់ដោយប្រកួតតម្លៃ"
 
 msgid "Location"
 msgstr "ជួល"
+
 msgid "Location saisonnière"
 msgstr "ជួលរដូវកាល"
-
 
 msgid "From"
 msgstr "ចាប់ពី"
@@ -4128,3 +4131,6 @@ msgstr "ជ្រើសរើសស្រុក"
 
 msgid "Select city"
 msgstr "ជ្រើសរើសទីក្រុង"
+
+msgid "Place"
+msgstr "កន្លែង"

@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -3723,11 +3724,12 @@ msgid ""
 "Please note that there are dependencies, please select a contact for "
 "completing the data transfer."
 msgstr ""
-"Sila ambil perhatian terdapat dependensi, terima kasih untuk memilih kenalan "
-"untuk menyelesaikan pemindahan"
+"Sila ambil perhatian terdapat dependensi, terima kasih untuk memilih kenalan"
+" untuk menyelesaikan pemindahan"
 
 msgid "The installation can take several minutes, please come back later."
-msgstr "Pemasangan boleh mengambil masa beberapa minit, sila kembali kemudian."
+msgstr ""
+"Pemasangan boleh mengambil masa beberapa minit, sila kembali kemudian."
 
 msgid "Your contact speaks %s, would you like to change the language?"
 msgstr "Kenalan anda bercakap % s, adakah anda ingin tukar kepada bahasa itu?"
@@ -4630,7 +4632,8 @@ msgid "Allow all"
 msgstr "Benarkan semua"
 
 msgid "Private position is not set, click here to update."
-msgstr "Kedudukan peribadi tidak ditetapkan, klik di sini untuk mengemas kini."
+msgstr ""
+"Kedudukan peribadi tidak ditetapkan, klik di sini untuk mengemas kini."
 
 msgid "Public position is not set, click here to update."
 msgstr "Kedudukan umum tidak ditetapkan, klik di sini untuk mengemas kini."
@@ -4897,9 +4900,9 @@ msgstr "Lelong"
 
 msgid "Location"
 msgstr "Sewaan"
+
 msgid "Location saisonnière"
 msgstr "Sewaan bermusim"
-
 
 msgid "From"
 msgstr ""
@@ -4921,3 +4924,6 @@ msgstr ""
 
 msgid "Select city"
 msgstr ""
+
+msgid "Place"
+msgstr "tempat"

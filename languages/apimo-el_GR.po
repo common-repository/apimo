@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -4559,7 +4560,8 @@ msgid "plus VAT"
 msgstr "συν ΦΠΑ"
 
 msgid "<b>Warning :</b> there is an error, please check each fields."
-msgstr "<b>Προειδοποίηση :</b> υπάρχει σφάλμα, παρακαλούμε ελέγξτε κάθε πεδίο."
+msgstr ""
+"<b>Προειδοποίηση :</b> υπάρχει σφάλμα, παρακαλούμε ελέγξτε κάθε πεδίο."
 
 msgid "Price/sq m"
 msgstr "Τιμή/τ.μ."
@@ -5700,7 +5702,8 @@ msgid "Rental price"
 msgstr "Τιμή ενοικίασης"
 
 msgid "Listed price: %s, exchange rates are indicative."
-msgstr "Αναγραφόμενη τιμή: %s, οι συναλλαγματικές ισοτιμίες είναι ενδεικτικές."
+msgstr ""
+"Αναγραφόμενη τιμή: %s, οι συναλλαγματικές ισοτιμίες είναι ενδεικτικές."
 
 msgid "%s units"
 msgstr "%s μονάδες"
@@ -5759,7 +5762,8 @@ msgstr "ποτέ"
 msgid "Facades"
 msgstr "Προσόψεις"
 
-msgid "Please select the page where you would like to publish your properties."
+msgid ""
+"Please select the page where you would like to publish your properties."
 msgstr ""
 "Παρακαλούμε επιλέξτε τη σελίδα στην οποία θα θέλατε να δημοσιεύσετε τις "
 "ιδιότητές σας."
@@ -5830,8 +5834,8 @@ msgid ""
 "This feature need the software WhatsApp Web. Before using this feature be "
 "sure to download and link your smartphone."
 msgstr ""
-"Αυτή η λειτουργία χρειάζεται το λογισμικό WhatsApp Web. Πριν χρησιμοποιήσετε "
-"αυτή τη λειτουργία φροντίστε να κάνετε λήψη και σύνδεση του smartphone σας."
+"Αυτή η λειτουργία χρειάζεται το λογισμικό WhatsApp Web. Πριν χρησιμοποιήσετε"
+" αυτή τη λειτουργία φροντίστε να κάνετε λήψη και σύνδεση του smartphone σας."
 
 msgid "Add a lead"
 msgstr "Προσθέστε ένα προβάδισμα"
@@ -6082,7 +6086,8 @@ msgid "Synchronize your calendar."
 msgstr "Συγχρονίστε το ημερολόγιό σας."
 
 msgid "Send messages within your email account."
-msgstr "Στείλτε μηνύματα μέσα από το λογαριασμό ηλεκτρονικού ταχυδρομείου σας."
+msgstr ""
+"Στείλτε μηνύματα μέσα από το λογαριασμό ηλεκτρονικού ταχυδρομείου σας."
 
 msgid "Manage your contacts."
 msgstr "Διαχειριστείτε τις επαφές σας."
@@ -6329,8 +6334,8 @@ msgid ""
 "available from the tab Exchange > Settings."
 msgstr ""
 "Μπορείτε να ανανεώσετε μια αγγελία στις διαδικτυακές πύλες χρησιμοποιώντας "
-"το σύστημα προσαύξησης, το οποίο είναι διαθέσιμο από την καρτέλα Ανταλλαγή > "
-"Ρυθμίσεις."
+"το σύστημα προσαύξησης, το οποίο είναι διαθέσιμο από την καρτέλα Ανταλλαγή >"
+" Ρυθμίσεις."
 
 msgid "Legal"
 msgstr "Νομική"
@@ -6540,9 +6545,9 @@ msgstr "Δημοπρασία"
 
 msgid "Location"
 msgstr "Ενοικίαση"
+
 msgid "Location saisonnière"
 msgstr "Εποχιακή ενοικίαση"
-
 
 msgid "From"
 msgstr "Από"
@@ -6564,3 +6569,6 @@ msgstr "Επιλέξτε περιφέρεια"
 
 msgid "Select city"
 msgstr "Επιλέξτε πόλη"
+
+msgid "Place"
+msgstr "Θέση"
